@@ -1,29 +1,60 @@
 ## Hi there 👋
 
-<!--
-**Farzia-esha/Farzia-esha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner Image -->
+![Banner](https://i.ibb.co.com/LdLRjfzg/Add-a-heading.jpg)
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Farzia Khandokar Eshamoni  
+### 💻 Frontend Developer | MERN Stack Enthusiast | Tech Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, I'm Farzia Khandokar Eshamoni
-####  💻 Frontend Developer | MERN Stack Enthusiast | Tech Enthusiast
-(https://i.ibb.co.com/LdLRjfzg/Add-a-heading.jpg)
+---
 
-I'm a passionate Computer Science student exploring the exciting world of web development. Currently focusing on building modern, responsive web applications using the MERN stack and honing my frontend development skills. I love creating user-friendly interfaces and learning new technologies every day.
+## 🧑‍💻 About Me  
+I'm a passionate **Computer Science student** diving deep into the world of **web development**.  
+I enjoy building modern, clean, and responsive user interfaces, and I'm currently enhancing my skills in the **MERN Stack**.
 
-Skills: REACT / JS / HTML / CSS
+I love transforming ideas into interactive web experiences and continuously learning new technologies to improve my craft.
 
-- 🔭 I’m currently working on this page. 
+---
+
+## 🚀 What I'm Learning / Working On  
+- 🌱 Currently learning **React.js**, **Node.js**, and **Tailwind CSS**
+- 💻 Exploring full-stack development with the **MERN Stack**
+- 🎨 Building responsive UI projects to sharpen frontend skills
+- 📘 Improving problem-solving and preparing for tech interviews
+
+---
+
+## 💼 Skills  
+
+### 🖥️ Programming  
+- JavaScript  
+- C / C++  
+- Java  
+- Python  
+
+### 🎨 Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+
+### 🔧 Backend  
+- Node.js  
+- Express.js  
+
+### 🗄️ Database  
+- MongoDB  
+- MySQL  
+
+### 🛠️ Tools  
+- Git & GitHub  
+- VS Code  
+- Netlify / Vercel  
+
+---
 
 
+---
 
-
+_✨ Thanks for visiting my profile! Feel free to connect and check out my projects!_
