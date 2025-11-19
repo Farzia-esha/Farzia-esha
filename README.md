@@ -11,10 +11,13 @@
 
 ## 🧑‍💻 About Me  
 I'm a passionate **Computer Science student** diving deep into the world of **web development**.  
-I enjoy building modern, clean, and responsive user interfaces, and I'm currently enhancing my skills in the **MERN Stack**.
+I enjoy creating modern, clean, and responsive user interfaces, and currently enhancing my skills in the **MERN Stack**.
 
-I love transforming ideas into interactive web experiences and continuously learning new technologies to improve my craft.
-- 📫 How to reach me **farziakhandokar24@gmail.com**
+
+I work with **React, MongoDB, Node.js, Firebase, and TailwindCSS**, and I love turning ideas into smooth, interactive web experiences.
+
+- Interests: **Frontend Development, MERN Stack, UI/UX Design, Problem Solving**
+- 📫 Get in touch: **farziakhandokar24@gmail.com**
 
 ---
 
@@ -95,23 +98,18 @@ I love transforming ideas into interactive web experiences and continuously lear
   </tr>
 </table>
 
----
-
-### 🖥️ Backend
+### 🖥️ Backend & Database
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express.js
     </td>
   </tr>
 </table>
 
-
-
-### Database
 <table>
   <tr>
     <td align="center" width="140">
@@ -123,9 +121,7 @@ I love transforming ideas into interactive web experiences and continuously lear
   </tr>
 </table>
 
-
-
-
+---
 ### 🛡️ Tools & Platforms
 <p align="left">
 <table border='0'>
