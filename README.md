@@ -172,13 +172,6 @@ I work with **React, MongoDB, Node.js, Firebase, and TailwindCSS**, and I love t
   </tr>
 </table>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzia-esha&show_icons=true&locale=en&layout=compact" alt="farzia-esha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzia-esha&show_icons=true&locale=en" alt="farzia-esha" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzia-esha&" alt="farzia-esha" /></p> -->
-
-<p><img src="https://streak-stats.demolab.com?user=farzia-esha&theme=react&hide_border=true" /> </p> -->
 
 ---
 
