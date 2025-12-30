@@ -156,12 +156,29 @@ I work with **React, MongoDB, Node.js, Firebase, and TailwindCSS**, and I love t
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzia-esha&show_icons=true&locale=en&layout=compact" alt="farzia-esha" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=farzia-esha&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzia-esha&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=farzia-esha&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzia-esha&show_icons=true&locale=en&layout=compact" alt="farzia-esha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzia-esha&show_icons=true&locale=en" alt="farzia-esha" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzia-esha&" alt="farzia-esha" /></p> -->
-<p><img src="https://streak-stats.demolab.com?user=farzia-esha&theme=react&hide_border=true" /> </p>
+
+<p><img src="https://streak-stats.demolab.com?user=farzia-esha&theme=react&hide_border=true" /> </p> -->
 
 ---
 
