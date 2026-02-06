@@ -1,4 +1,3 @@
-![Banner](https://i.ibb.co.com/LdLRjfzg/Add-a-heading.jpg)
 ![Banner](https://i.ibb.co.com/rjyHbZJ/Add-a-heading-1.jpg)
 
 
