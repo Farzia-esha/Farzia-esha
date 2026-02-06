@@ -1,5 +1,7 @@
 
 ![Banner](https://i.ibb.co.com/LdLRjfzg/Add-a-heading.jpg)
+![Banner](https://i.ibb.co.com/DHsSpVgL/Add-a-heading.png)
+
 
 <h1 align="center">Hi 👋, I'm Farzia Khandokar Eshamoni</h1>
 <h3 align="center">💻 Frontend Developer | MERN Stack Enthusiast | Tech Explorer</h3>
